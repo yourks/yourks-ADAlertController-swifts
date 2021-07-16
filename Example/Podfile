@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'yourks-ADAlertController-swifts_Example' do
+  pod 'yourks-ADAlertController-swifts', :path => '../'
+
+  target 'yourks-ADAlertController-swifts_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

@@ -1,0 +1,22 @@
+{
+  "name": "yourks-ADAlertController-swifts",
+  "version": "0.1.0",
+  "summary": "A short description of yourks-ADAlertController-swifts.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/apple/yourks-ADAlertController-swifts",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "apple": "568986318@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/apple/yourks-ADAlertController-swifts.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "yourks-ADAlertController-swifts/Classes/**/*"
+}
