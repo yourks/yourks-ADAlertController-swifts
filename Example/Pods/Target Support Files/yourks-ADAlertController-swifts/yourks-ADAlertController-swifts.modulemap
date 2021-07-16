@@ -1,6 +1,0 @@
-framework module yourks_ADAlertController_swifts {
-  umbrella header "yourks-ADAlertController-swifts-umbrella.h"
-
-  export *
-  module * { export * }
-}
